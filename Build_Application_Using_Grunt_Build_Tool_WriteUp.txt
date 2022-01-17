@@ -1,0 +1,7 @@
+
+1. To install npm install grunt-autoprefixer --save-dev 
+2. To install npm install grunt-contrib-watch --save-dev
+3. To install npm install grunt-contrib-cssmin --save-dev
+4. To install npm install grunt-contrib-uglify --save-dev
+5. To install npm install grunt copy --save-dev
+6. Create a gruntfile.js and then add write code according to the requirements
